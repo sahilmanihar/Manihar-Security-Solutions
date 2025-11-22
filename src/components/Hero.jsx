@@ -11,7 +11,7 @@ export default function Hero() {
 
                 {/* LEFT SIDE — TEXT */}
                 <div className="pt-40 md:pt-0 space-y-10 md:space-y-6 text-left md:text-left">
-                    <h1 className="text-4xl sm:text-4xl md:text-6xl font-extrabold leading-tight">
+                    <h1 className="text-[22px] sm:text-4xl md:text-6xl font-extrabold leading-tight">
                         Advance CCTV Camera<br/><span className="bg-gradient-to-r from-blue-600 to-red-600 bg-clip-text text-transparent">Security Solutions</span>
                         <br /> For Home & Business
                     </h1>
@@ -29,7 +29,7 @@ export default function Hero() {
              text-lg font-semibold shadow-lg transition-all"
                     >
                         <MdCall className="text-xl" />
-                        Get Free Consultation
+                        Contact Us
                     </a>
 
                 </div>
