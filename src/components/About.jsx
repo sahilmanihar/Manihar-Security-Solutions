@@ -15,7 +15,7 @@ export default function About() {
                     <span className="block w-20 h-1 bg-red-600 mx-auto mt-3 rounded-full animate-pulse"></span>
                 </h2>
 
-                <p className="text-lg max-w-3xl mx-auto mt-6 text-white leading-relaxed">
+                <p className="text-lg text-left md:text-center max-w-3xl mx-auto mt-6 text-white leading-relaxed">
                     We are a trusted security solutions provider in Mumbai with years of
                     expertise in delivering top-quality installations for Homes, Offices,
                     Shops, Societies, and Commercial Spaces. Our mission is to provide
